@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Project Mars\\SpecFlowProjectMars.csproj": {}
+    "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Mars1\\SpecFlowProjectMars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Project Mars\\SpecFlowProjectMars.csproj": {
+    "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Mars1\\SpecFlowProjectMars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Project Mars\\SpecFlowProjectMars.csproj",
+        "projectUniqueName": "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Mars1\\SpecFlowProjectMars.csproj",
         "projectName": "SpecFlowProjectMars",
-        "projectPath": "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Project Mars\\SpecFlowProjectMars.csproj",
+        "projectPath": "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Mars1\\SpecFlowProjectMars.csproj",
         "packagesPath": "C:\\Users\\boney\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Project Mars\\obj\\",
+        "outputPath": "C:\\Users\\boney\\Desktop\\PROJECT MARS\\Mars1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
