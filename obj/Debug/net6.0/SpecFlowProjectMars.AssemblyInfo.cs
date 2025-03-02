@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlowProjectMars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44c2c9de972a582d1ecaeba7dd03e3a5c68c362")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlowProjectMars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlowProjectMars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
